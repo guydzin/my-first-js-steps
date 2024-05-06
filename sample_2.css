@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+}
+
+.navigation{
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,36 @@
+.red{
+    color: red;
+    display: inline;
+    margin-right:5%
+}
+
+.yellow{
+    color: rgb(97, 17, 226);
+    display: inline;
+}
+
+#green{
+    color: green;
+}
+
+.text{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.red-block{
+    height: 150px;
+    width: 150px;
+    background-color: bisque;
+}
+
+.green-block{
+    height: 150px;
+    width: 150px;
+    background-color: aquamarine;
+}
